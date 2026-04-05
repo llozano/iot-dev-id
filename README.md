@@ -5,6 +5,9 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 Intention of create a unique device ID by calculating the GPU mantissa err of the device.
 This method might not be accurate without addition of network tracking factors and some other fun signals.
 
+## Test it live!
+Go to [Github Page](https://llozano.github.io/iot-dev-id/)
+
 ## Getting Started
 
 First, run the development server:
